@@ -8,7 +8,8 @@
 * **Simulate the Role:** Experience the practical, day-to-day responsibilities expected of a Junior Financial Analyst.
 
 ## 📁 Contents
-* **`Week_1_ Financial_Data_Analysis_and_Reporting.docs`**: The core deliverable for this week. It is a comprehensive report detailing an end-to-end strategic plan for a Financial Data Analysis and Reporting.
+* **`Week_1_ Financial_Data_Analysis_and_Reporting.docx`**: The core deliverable for this week. It is a comprehensive report detailing an end-to-end strategic plan for a Financial Data Analysis and Reporting.
+* **`Tata_Motors_Financial_Statement.xlsx`**: The main Core Financial Statenent of FY21-FY25 of Income,P&L statements Inculdes organizing well defined excel data for Financial Data Analysis and Reporting. 
 
 ## 📊 Project Highlights
 
